@@ -52,17 +52,17 @@ This happens because the app is not digitally signed.
 ---
 
 ## SnapShots
-<img src="ScreenShot 1.png" alt="Screenshot of the project" width="400" height="200">
-<img src="ScreenShot 2.png" alt="Screenshot of the project" width="400" height="200">
-<img src="ScreenShot 3.png" alt="Screenshot of the project" width="400" height="200">
+<img src="images/ScreenShot 1.png" alt="Screenshot of the project" width="400" height="200">
+<img src="images/ScreenShot 2.png" alt="Screenshot of the project" width="400" height="200">
+<img src="images/ScreenShot 3.png" alt="Screenshot of the project" width="400" height="200">
 
 ### Dark theme
-<img src="ScreenShot 4.png" alt="Screenshot of the project" width="400" height="200">
-<img src="ScreenShot 5.png" alt="Screenshot of the project" width="400" height="200">
-<img src="ScreenShot 6.png" alt="Screenshot of the project" width="400" height="200">
+<img src="images/ScreenShot 4.png" alt="Screenshot of the project" width="400" height="200">
+<img src="images/ScreenShot 5.png" alt="Screenshot of the project" width="400" height="200">
+<img src="images/ScreenShot 6.png" alt="Screenshot of the project" width="400" height="200">
 
 ### Browser Report
-<img src="ScreenShot 7.png" alt="Screenshot of the project" width="400" height="200">
+<img src="images/ScreenShot 7.png" alt="Screenshot of the project" width="400" height="200">
 
 
 ## 👨‍💻 Author
