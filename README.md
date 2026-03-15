@@ -24,7 +24,7 @@ Run the file — no installation required.
 
 ---
 
-## 🖥️ How to Use
+##  How to Use
 
 1. Download `DiskLens.exe`
 2. Run the application
@@ -65,7 +65,7 @@ This happens because the app is not digitally signed.
 <img src="images/ScreenShot 7.png" alt="Screenshot of the project" width="400" height="200">
 
 ## YouTube Tutorial
-[Tutorial(https://youtu.be/g6Sd_iDGJsY?si=vlveTRojjRyt8Uws)
+[Tutorial](https://youtu.be/g6Sd_iDGJsY?si=vlveTRojjRyt8Uws)
 
 ##  Author
 
