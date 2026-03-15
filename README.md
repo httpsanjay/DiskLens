@@ -6,7 +6,7 @@ DiskLens is a fast and modern disk analyzer built with Python and Flet. It scans
 
 ---
 
-## 🚀 Download
+##  Download
 
 Download the latest **DiskLens.exe** from the releases section.
 
@@ -14,7 +14,7 @@ Run the file — no installation required.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Fast disk scanning
 - Find large files easily
@@ -33,7 +33,7 @@ Run the file — no installation required.
 
 ---
 
-## 🧹 Junk Cleanup
+##  Junk Cleanup
 
 DiskLens removes common junk files such as:
 
@@ -44,7 +44,7 @@ DiskLens removes common junk files such as:
 
 ---
 
-## ⚠️ Note
+##  Note
 
 Some antivirus software may warn about unknown executables.  
 This happens because the app is not digitally signed.
@@ -64,8 +64,10 @@ This happens because the app is not digitally signed.
 ### Browser Report
 <img src="images/ScreenShot 7.png" alt="Screenshot of the project" width="400" height="200">
 
+## YouTube Tutorial
+[Tutorial(https://youtu.be/g6Sd_iDGJsY?si=vlveTRojjRyt8Uws)
 
-## 👨‍💻 Author
+##  Author
 
 Created by **Sanjay**
 
